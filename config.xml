@@ -116,7 +116,6 @@
     <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
-        <icon src="icon.png" />
         <icon src="www/res/icon/android/drawable-ldpi-icon.png" gap:qualifier="ldpi" />
         <icon src="www/res/icon/android/drawable-mdpi-icon.png" gap:qualifier="mdpi" />
         <icon src="www/res/icon/android/drawable-hdpi-icon.png" gap:qualifier="hdpi" />
