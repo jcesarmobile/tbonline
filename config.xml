@@ -116,10 +116,10 @@
     <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
-        <icon src="www/res/icon/android/drawable-ldpi-icon.png" gap:qualifier="ldpi" />
-        <icon src="www/res/icon/android/drawable-mdpi-icon.png" gap:qualifier="mdpi" />
-        <icon src="www/res/icon/android/drawable-hdpi-icon.png" gap:qualifier="hdpi" />
-        <icon src="www/res/icon/android/drawable-xhdpi-icon.png" gap:qualifier="xhdpi" />
+        <icon src="www/res/icon/android/drawable-ldpi-icon.PNG" gap:qualifier="ldpi" />
+        <icon src="www/res/icon/android/drawable-mdpi-icon.PNG" gap:qualifier="mdpi" />
+        <icon src="www/res/icon/android/drawable-hdpi-icon.PNG" gap:qualifier="hdpi" />
+        <icon src="www/res/icon/android/drawable-xhdpi-icon.PNG" gap:qualifier="xhdpi" />
 
     </platform>
     <platform name="ios">
